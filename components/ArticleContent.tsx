@@ -89,7 +89,7 @@ export const ArticleContent: React.FC = () => {
       />
 
       <p>
-        Instead, the study found that the <em>quality</em> of the experience was the deciding factor. Negative experiences, such as cyberbullying, exclusion, or "doomscrolling" through depressing news—drastically increased risk. However, positive interactions, such as messaging close friends, finding support groups, or engaging with hobbies, actually served as a <strong>protective factor</strong>. This is a crucial distinction. It means that the university’s strategy cannot simply be "digital abstinence." Telling students to just "get off their phones" ignores the reality that these devices are also their lifeline to community. The goal should not be to eliminate screen time, but to improve the <em>quality</em> of that time.
+        Instead, the study found that the <em>quality</em> of the experience was the deciding factor. Negative experiences, such as cyberbullying, exclusion, or "doomscrolling" through depressing news, drastically increased risk. However, positive interactions, such as messaging close friends, finding support groups, or engaging with hobbies, actually served as a <strong>protective factor</strong>. This is a crucial distinction. It means that the university’s strategy cannot simply be "digital abstinence." Telling students to just "get off their phones" ignores the reality that these devices are also their lifeline to community. The goal should not be to eliminate screen time, but to improve the <em>quality</em> of that time.
       </p>
 
       {/* Future Directions */}
