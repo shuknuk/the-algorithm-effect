@@ -39,7 +39,7 @@ export const ArticleContent: React.FC = () => {
       </p>
 
       <Figure 
-        src="/public/slideShow.png" 
+        src="/images/slideShow.png" 
         alt="Diagram of the Dopamine Loop showing stimulus, action, and reward."
         caption="Fig. 1: The cyclical nature of algorithmic dependency."
       />
@@ -83,7 +83,7 @@ export const ArticleContent: React.FC = () => {
       </p>
 
       <Figure 
-        src="/public/graphChart.png" 
+        src="/images/graphChart.png" 
         alt="Graph showing Positive vs. Negative interactions impacting mental health."
         caption="Fig. 2. Theoretical model illustrating the relationship between social media use, FOMO, and psychological well-being tracked across four distinct time points (T1–T4) to establish causality (Zhang et al.)."
       />
