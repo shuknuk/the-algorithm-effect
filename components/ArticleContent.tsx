@@ -45,7 +45,7 @@ export const ArticleContent: React.FC = () => {
       />
 
       <p>
-        This creates a "dependency loop" in the brain that functions similarly to substance addiction. When a student opens TikTok or Instagram, they are essentially pulling the lever on a slot machine. Sometimes they see something boring, but sometimes they see something that triggers a hit of dopamine—a funny video, a compliment, or shocking news. This "variable reward schedule" is the most addictive pattern known in psychology. Alutaybi’s research confirms that this usage correlates directly with higher rates of depression and anxiety among college-aged adults. The algorithm is not designed to make you happy; it is designed to keep you scrolling. As a result, Rutgers students often find themselves trapped in a cycle of consumption that they did not consciously choose, losing hours of sleep and study time to a feed that never ends.
+        This creates a "dependency loop" in the brain that functions similarly to substance addiction. When a student opens TikTok or Instagram, they are essentially pulling the lever on a slot machine. Sometimes they see something boring, but sometimes they see something that dopamine, a funny video, a compliment, or shocking news. This "vtriggers a hit of ariable reward schedule" is the most addictive pattern known in psychology. Alutaybi’s research confirms that this usage correlates directly with higher rates of depression and anxiety among college-aged adults. The algorithm is not designed to make you happy; it is designed to keep you scrolling. As a result, Rutgers students often find themselves trapped in a cycle of consumption that they did not consciously choose, losing hours of sleep and study time to a feed that never ends.
       </p>
 
       {/* The Comparison Trap */}
@@ -89,7 +89,7 @@ export const ArticleContent: React.FC = () => {
       />
 
       <p>
-        Instead, the study found that the <em>quality</em> of the experience was the deciding factor. Negative experiences—such as cyberbullying, exclusion, or "doomscrolling" through depressing news—drastically increased risk. However, positive interactions—such as messaging close friends, finding support groups, or engaging with hobbies—actually served as a <strong>protective factor</strong>. This is a crucial distinction. It means that the university’s strategy cannot simply be "digital abstinence." Telling students to just "get off their phones" ignores the reality that these devices are also their lifeline to community. The goal should not be to eliminate screen time, but to improve the <em>quality</em> of that time.
+        Instead, the study found that the <em>quality</em> of the experience was the deciding factor. Negative experiences, such as cyberbullying, exclusion, or "doomscrolling" through depressing news—drastically increased risk. However, positive interactions, such as messaging close friends, finding support groups, or engaging with hobbies, actually served as a <strong>protective factor</strong>. This is a crucial distinction. It means that the university’s strategy cannot simply be "digital abstinence." Telling students to just "get off their phones" ignores the reality that these devices are also their lifeline to community. The goal should not be to eliminate screen time, but to improve the <em>quality</em> of that time.
       </p>
 
       {/* Future Directions */}
@@ -101,7 +101,7 @@ export const ArticleContent: React.FC = () => {
         First, we must embrace <strong>Algorithm Literacy</strong>. Just as we require students to take courses on alcohol safety and sexual health during orientation, we should incorporate a "Digital Hygiene" module into the first-year seminar. Students need to be taught exactly how the algorithm works. If they understand that the "For You" page is a manipulated feed designed to trigger dopamine, the psychological "magic" wears off. They can learn to curate their own feeds, unfollowing accounts that trigger comparison and prioritizing accounts that inspire them.
       </p>
       <p>
-        Second, the university should use technology to fight technology. A meta-analysis by Lattie et al. (2022) found that "e-mental health" interventions are highly effective for university students. Rutgers should integrate evidence-based wellness apps—those offering cognitive behavioral therapy (CBT) and mindfulness—directly into the Student Health Portal. These tools meet students where they are: on their phones. They offer a private, stigma-free way to manage anxiety at 2:00 AM when the counseling center is closed.
+        Second, the university should use technology to fight technology. A meta-analysis by Lattie et al. (2022) found that "e-mental health" interventions are highly effective for university students. Rutgers should integrate evidence-based wellness apps, those offering cognitive behavioral therapy (CBT) and mindfulness, directly into the Student Health Portal. These tools meet students where they are: on their phones. They offer a private, stigma-free way to manage anxiety at 2:00 AM when the counseling center is closed.
       </p>
 
       {/* Conclusion */}
