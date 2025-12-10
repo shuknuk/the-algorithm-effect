@@ -103,6 +103,14 @@ const App: React.FC = () => {
         <div className="max-w-4xl mx-auto px-6 text-center text-stone-500 text-sm">
           <p className="font-serif italic mb-2">"The Algorithm Effect"</p>
           <p>© 2025 Kinshuk Goel | Rutgers University.</p>
+          <a
+            href="https://github.com/shuknuk/the-algorithm-effect"
+            className="inline-flex items-center justify-center gap-2 mt-3 text-rutgers-red font-medium hover:underline"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Website source code
+          </a>
         </div>
       </footer>
     </div>
